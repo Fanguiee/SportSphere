@@ -1,2 +1,2 @@
 # SportSphere
-App for sports fans with Flutter, dart
+A crossplatform app for sports fans with Flutter, dart
